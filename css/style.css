@@ -1,0 +1,11 @@
+*{margin:0;padding:0}
+p{margin-bottom: 25px;}
+h1{padding-top:50px;}
+h3{padding-bottom:30px;}
+h4{text-align: center;padding: 10px 0;}
+table{width:1170px;margin: 0 auto;border:none;outline: none;}
+
+#banner{background: url(h1.jpg) norepeat; height:300px;}
+img{max-width: 100%;}
+.title{text-align:center;}
+.sub_title{text-align:center;}
